@@ -16,7 +16,7 @@ function sub(){
     var n1 = Number(tx1.value) 
     var n2 = Number(tx2.value)
     var a = n1 - n2
-    res.innerHTML = `The subtraction of ${n1} and ${n2} is ${b}`
+    res.innerHTML = `The subtraction of ${n1} and ${n2} is ${a}`
 }
 
 function mult() {
